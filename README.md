@@ -133,7 +133,7 @@ Create a `.env` file at project root:
 OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxx
 ```
 
-OPENAI_API_KEY=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
+OPENAI_API_KEY=sk-proj-************
 
 
 ✅ Don't commit `.env` to public repositories.
